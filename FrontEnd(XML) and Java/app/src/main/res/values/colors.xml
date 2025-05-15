@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Primary Palette -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <!-- Accent Blue (Optional) -->
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_100">#BBDEFB</color>
+
+    <!-- Grayscale for Surfaces & Backgrounds -->
+    <color name="gray_100">#F5F5F5</color>      <!-- Light mode background -->
+    <color name="gray_200">#EEEEEE</color>      <!-- Light containers -->
+    <color name="gray_400">#BDBDBD</color>      <!-- Hint or disabled text -->
+    <color name="gray_600">#757575</color>      <!-- Secondary text -->
+    <color name="gray_800">#2C2C2C</color>      <!-- Dark surface variant -->
+    <color name="gray_900">#121212</color>      <!-- Dark base background -->
+
+    <!-- Custom naming for clarity -->
+    <color name="light_gray">#A5A5A5</color>    <!-- For outlines and icons -->
+    <color name="dark_gray">#1E1E1E</color>     <!-- Elevated dark components -->
+    <color name="darker_gray">#121212</color>   <!-- True dark background -->
+</resources>
