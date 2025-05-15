@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearance.MobileProject.MediumComponent" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="TextAppearance.MobileProject.BodyLarge" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="TextAppearance.MobileProject.BodyMedium" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">?attr/colorOnSurfaceVariant</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Theme.MobileProject" parent="Theme.Material3.Dark.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryContainer">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSurface">@color/gray_900</item>
+        <item name="colorSurfaceVariant">@color/gray_800</item>
+
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorOnSurfaceVariant">@color/gray_400</item>
+        <item name="android:windowBackground">@color/gray_900</item>
+
+        
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:navigationBarColor">@color/gray_900</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        
+        <item name="colorOutline">@color/purple_200</item>
+        <item name="textInputStyle">@style/Widget.MobileProject.TextInput</item>
+
+        
+        <item name="toolbarStyle">@style/Widget.MobileProject.Toolbar</item>
+
+        
+        <item name="cardViewStyle">@style/Widget.MobileProject.CardView.Dark</item>
+
+        
+        <item name="textAppearanceBodyLarge">@style/TextAppearance.MobileProject.BodyLarge</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.MobileProject.BodyMedium</item>
+    </style>
+    <style name="Widget.MobileProject.CardView.Dark" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">?attr/colorSurfaceVariant</item>
+        <item name="cardForegroundColor">?attr/colorOnSurface</item>
+        <item name="strokeColor">@color/purple_200</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.MobileProject.MediumComponent</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="cardElevation">8dp</item>
+        <item name="cardMaxElevation">12dp</item>
+    </style>
+    <style name="Widget.MobileProject.TextInput" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">?attr/colorOutline</item>
+        <item name="boxBackgroundColor">?attr/colorSurfaceVariant</item>
+        <item name="hintTextColor">?attr/colorOnSurfaceVariant</item>
+        <item name="android:textColorHint">?attr/colorOnSurfaceVariant</item>
+    </style>
+    <style name="Widget.MobileProject.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">?attr/colorPrimaryContainer</item>
+        <item name="titleTextColor">?attr/colorOnPrimary</item>
+        <item name="subtitleTextColor">?attr/colorOnPrimary</item>
+        <item name="android:elevation">6dp</item>
+    </style>
+</resources>

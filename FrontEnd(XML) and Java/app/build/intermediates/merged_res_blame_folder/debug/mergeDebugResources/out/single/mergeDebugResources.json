@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\menu_menu_all_passwords.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\menu\\menu_all_passwords.xml"
+    },
+    {
+        "merged": "com.example.mobileproject.app-debug-44:/drawable_ic_sun.xml.flat",
+        "source": "com.example.mobileproject.app-main-46:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_activity_new_account.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\activity_new_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_content_new_account.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\content_new_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_ic_moon_white.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\ic_moon_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_baseline_wb_sunny_24.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\baseline_wb_sunny_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_item_password.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\item_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mobileproject.app-debug-44:/drawable_ic_moon.xml.flat",
+        "source": "com.example.mobileproject.app-main-46:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_applogo.jpg.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\applogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_content_all_passwords.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\content_all_passwords.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_content_add_password.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\content_add_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_activity_all_passwords.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\activity_all_passwords.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\layout_activity_add_password.xml.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\layout\\activity_add_password.xml"
+    },
+    {
+        "merged": "com.example.mobileproject.app-debug-44:/menu_menu_all_passwords.xml.flat",
+        "source": "com.example.mobileproject.app-main-46:/menu/menu_all_passwords.xml"
+    },
+    {
+        "merged": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AliGh\\.gradle\\daemon\\8.10.2\\com.example.mobileproject.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
